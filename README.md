@@ -17,3 +17,4 @@ Frontend
 - [260215 / FE 운영진 스터디 1주차 - React 공식문서 스터디](./Frontend/React/01_react_reference_hooks.md)
 - [260222 / FE 운영진 스터디 2주차 - Redux 공식문서 스터디](./Frontend/Redux/01_redux_introduction.md)
 - [260222 / FE 운영진 스터디 2주차 - Redux 공식문서 스터디(Redux toolkit)](./Frontend/Redux/02_redux_toolkit_introduction.md)
+- [260222 / FE 운영진 스터디 3주차 - Zustand 공식문서 스터디](./Frontend/Zustand/01_zustand_docs.md)
